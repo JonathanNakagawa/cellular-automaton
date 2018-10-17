@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simulation simType = "Color">
+    <simAuthor> Max Bartlett </simAuthor>
+    <simTitle> LifeTest1 </simTitle>
+
+    <globalParam>
+        <!-- Specific simulation parameters go here -->
+        <!-- Fire: <probCatch> -->
+        <!-- Seg: <percentSatisfaction> -->
+        <!-- WaTor: <sharkLifetime> -->
+        <!-- WaTor: <fishLifetime> -->
+    </globalParam>
+
+    <grid>
+        <gridSize>
+            <xdim> 5 </xdim>
+            <ydim> 5 <!-- Initial size of a grid column--> </ydim>
+        </gridSize>
+
+        <beginCells>
+            <row1> R G B R R <!-- Place representation for row of cells here--> </row1>
+            <row2> R G B R R  </row2>
+            <row3> R G B R R  </row3>
+            <row4> R G B R R  </row4>
+            <row5> R G B R R  </row5>
+
+        </beginCells>
+    </grid>
+
+</simulation>
