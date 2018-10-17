@@ -2,16 +2,10 @@ cell society
 ====
 
 This project implements a cellular automata simulator.
+Created for Duke CS 308 class.
 
 Names: Jonathan Nakagawa, Ryan Piersma, Max Bartlett
 
-### Timeline
-
-Start Date: 9/15/2018
-
-Finish Date: 10/1/2018
-
-Hours Spent: 100
 
 ### Primary Roles
 Jonathan - Simulation
